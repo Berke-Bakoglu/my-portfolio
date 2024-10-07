@@ -536,14 +536,14 @@ a {
     padding: 0.5rem;
     font-size: 2rem;
   }
+
+  .about .row .img {
+    width: 50%;
+  }
 }
 
 @media (max-width: 576px) {
   html {
     font-size: 50%;
-  }
-
-  .about .row .image img{
-    width: 1 1 20rem;
   }
 }
