@@ -537,8 +537,13 @@ a {
     font-size: 2rem;
   }
 
-  .about .row .img {
-    width: 50%;
+  .image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    img {
+      width: 200px;
+    }
   }
 }
 
