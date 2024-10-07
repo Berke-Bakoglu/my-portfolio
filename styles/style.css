@@ -536,6 +536,10 @@ a {
     padding: 0.5rem;
     font-size: 2rem;
   }
+
+  .about .row .image{
+    width: 1 1 20rem;
+  }
 }
 
 @media (max-width: 576px) {
